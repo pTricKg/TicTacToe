@@ -37,7 +37,7 @@ public class TicTacToeFrame extends JFrame {
 		}
 		
 		// set and pop game
-		panel.setBorder(new LineBorder(Color.blue, 50));
+		panel.setBorder(new LineBorder(Color.blue, 5));
 		lStatus.setBorder(new LineBorder(Color.red, 10));
 		
 		add(panel, BorderLayout.CENTER);
