@@ -145,9 +145,7 @@ public class TicTacToeFrame extends JFrame {
 			}
 			else if (play == 'O') {
 				g.drawOval(10, 10, getWidth() - 20, getHeight() - 20);
-			}
-			
-			
+			}			
 		}
 		
 		/**
